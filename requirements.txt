@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+undetected_chromedriver==3.5.4
+lxml==4.9.3
+
